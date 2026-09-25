@@ -1,13 +1,6 @@
 <p align="center">
   <img src="./banner.jpg" width="100%" />
 </p>
-# ⚡ Hello, World! I'm Saumalya Kundu
-
-<h3 align="center">💻 Computer Science & Engineering Student | 🤖 SAP & Business Management Enthusiast</h3>
-
-<p align="center">
-  <i>Learning. Building. Experimenting. Turning ideas into real-world solutions.</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saumalya2007&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
