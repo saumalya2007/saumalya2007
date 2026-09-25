@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" />
+</p>
 # ⚡ Hello, World! I'm Saumalya Kundu
 
 <h3 align="center">💻 Computer Science & Engineering Student | 🤖 SAP & Business Management Enthusiast</h3>
