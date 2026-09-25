@@ -1,16 +1,33 @@
-## Hi there 👋
+# ⚡ Hello, World! I'm Saumalya Kundu
 
-<!--
-**saumalya2007/saumalya2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Computer Science & Engineering Student | 🤖 SAP & Business Management Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Learning. Building. Experimenting. Turning ideas into real-world solutions.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Computer Science & Engineering student who enjoys exploring technology, business, and building things that solve real problems.
+
+- 🔭 Currently exploring **SAP & Business Management**
+- 💻 Learning **Software Development & Programming**
+- 🚀 Working on **Projects & Hackathons**
+- 🌱 Always learning something new
+- ⚡ Interested in turning ideas into practical solutions
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+**ABAP** • SAP Development
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
